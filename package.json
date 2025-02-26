@@ -15,5 +15,9 @@
     "url": "https://github.com/react-agents-registry/rag-memory/issues"
   },
   "homepage": "https://github.com/react-agents-registry/rag-memory#readme",
-  "description": ""
+  "description": "",
+  "pluginConfig": {
+    "type": "react-agents:1.0.0",
+    "parameters": {}
+  }
 }

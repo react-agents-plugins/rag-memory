@@ -1,5 +1,5 @@
 {
-  "name": "rag-memory",
+  "name": "@react-agents-plugins/rag-memory",
   "version": "0.0.1",
   "main": "rag-memory.tsx",
   "scripts": {

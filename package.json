@@ -1,0 +1,19 @@
+{
+  "name": "rag-memory",
+  "version": "0.0.1",
+  "main": "rag-memory.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-agents-registry/rag-memory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/react-agents-registry/rag-memory/issues"
+  },
+  "homepage": "https://github.com/react-agents-registry/rag-memory#readme",
+  "description": ""
+}
